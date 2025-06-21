@@ -1,0 +1,12 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "description": "Vuepress 2 Boilerplate",
+  "main": "index.js",
+  "license": "GNU 3",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.23",
+    "@vuepress/theme-default": "^2.0.0-rc.110",
+    "vuepress": "^2.0.0-rc.23"
+  }
+}
